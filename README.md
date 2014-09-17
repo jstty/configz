@@ -2,8 +2,11 @@ configz
 =======
 
 TODO:
-* load config from url (S3)
-* config location from ENV
-* config schemas/template
+* Support new config locations
+  * PAAS
+    * AWS Beanstolk
+  * URL (S3)
+  * ENV sets location to load
+* Schemas/templates
 * Add Examples
 * Add tests
