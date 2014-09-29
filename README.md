@@ -1,3 +1,5 @@
+### This project is no longer maintained, please go to https://github.com/jstty/transfuser
+
 configz
 =======
 
